@@ -1,2 +1,1 @@
-# teste1
-teste
+Exercícios de lógica de programação resolvidos na linguagem C.
